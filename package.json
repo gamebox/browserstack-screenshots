@@ -1,6 +1,14 @@
 {
   "name": "browserstack-screenshots",
   "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+  	"name": "Anthony Bullard",
+  	"email": "tony@trueaccord.com",
+  	"url": "http://github.com/gamebox"
+  },
+  "repository": "https://github.com/gamebox/browserstack-screenshots.git",
+  "description": "A node utility for generating screenshots through BrowserStack's Screenshot API.  API Access is required.",
   "dependencies": {
     "minimist": "^1.1.1",
     "request": "^2.54.0"
